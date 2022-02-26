@@ -1,6 +1,4 @@
 import chalk from 'chalk';
 
-const log = console.log;
-
-// Combine styled and normal strings
-log(chalk.red('Olaa') + ' Mundito' + chalk.green('!!!😊'));
+console.log(chalk.green('Viva') + ' Méx' + chalk.red('ico!!!🌮'));
+console.log(chalk.blue('Slava ') + chalk.yellow('Ukraine'));
